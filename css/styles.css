@@ -196,7 +196,7 @@ img {
   width: 696px;
   margin: 0 auto;
   margin-bottom: 30px;
-  margin-top:102.667px
+  margin-top: 102.667px;
 }
 
 .tittle-button {
@@ -729,7 +729,6 @@ img {
 
 .backdrop.is-hidden {
   transition: all 500ms linear 500ms;
-  
 }
 
 .modal {
